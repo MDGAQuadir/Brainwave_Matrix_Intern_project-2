@@ -1,1 +1,2 @@
 # Brainwave_Matrix_Intern_project-2
+This is a Java-based Hospital Management System designed to handle patient registration, appointments, billing, inventory, and staff management. It uses object-oriented principles and runs on the console with menu-driven interaction. Ideal for basic hospital operations simulation or as a starting point for full-featured applications. Run the program using any Java IDE or terminal with javac and java commands.
